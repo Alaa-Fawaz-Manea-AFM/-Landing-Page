@@ -222,7 +222,7 @@ img {
   height: 660px;
   background-size: cover;
   background-position: center;
-  background-image: url(/images/solar-panels-meadow\ 1.png);
+  background-image: url(./images/solar-panels-meadow\ 1.png);
 }
 
 .hero-line {
@@ -285,7 +285,7 @@ sup {
   color: white;
   background-size: cover;
   background-position: center;
-  background-image: url("/images/8116\ 1.png");
+  background-image: url("./images/8116\ 1.png");
 }
 
 /* section 3 */
